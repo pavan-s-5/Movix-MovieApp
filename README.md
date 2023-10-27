@@ -1,6 +1,8 @@
 # Movix
 Movix - A Movie web App built using ( React Js )
 
+**`Web App Link : `**   https://movix-movie-app-v1ho.vercel.app/
+
 **Overview:**
 
 Movix is a feature-rich movie web app designed to provide users with a seamless and enjoyable movie-watching experience. 
